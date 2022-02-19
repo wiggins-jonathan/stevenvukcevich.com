@@ -81,7 +81,7 @@ a 10 year period
 
 ---
 
-### Quitters earn more!
+### Quitters earn fucking more!
 
 The average annual raise is 3%.
 
@@ -158,9 +158,9 @@ If they had the budget to give you a counter-offer to stay, why didn't they just
 give you that money during your last review? This shows they know you are worth
 more than you are being paid.
 
----
+Corporations are not your friends. On a long enough time line, they will fuck you
 
-### Compare apples to apples
+---
 
 Always compare Total Compensation (TC)
 * Salary
@@ -193,7 +193,9 @@ Always go remote if possible. No more wasting time commuting to an office
 
 Happy Birthday Steven
 
-My gift to you is this website & the knowledge contained herein
+My gift to you is this website, this domain (for 10 years), & the knowledge contained herein
+
+Don't ever make me do this again
 
 ---
 
