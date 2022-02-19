@@ -1,6 +1,7 @@
 baseURL: https://stevenvukcevich.com
 languageCode: en-us
 title: My New Hugo Site
+publishDir: docs
 
 theme: reveal-hugo
 markup:
