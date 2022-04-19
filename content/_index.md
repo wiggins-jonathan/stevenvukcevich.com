@@ -54,7 +54,7 @@ Are you working 13.33 hours per week right now?
 So where did all our productivity go?
 
 ---
-![ceo pay since 1965](/images/ceo_pay.png)
+![CEO pay since 1965](/images/ceo_pay.png)
 
 CEO pay has increased by 351% in that same time
 
@@ -177,7 +177,7 @@ Always go remote if possible. No more wasting time commuting to an office
 ---
 ## Caveats
 * Your annual raises outpace inflation
-* You have vesting schedules or claw-back exemptions for 401k; RSU's; or
+* You have vesting schedules or claw-back exemptions for 401k; RSUs; or
   bonuses, the sum of which outpaces inflation
 * That's it! If these don't apply to you...
 
